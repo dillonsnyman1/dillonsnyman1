@@ -75,11 +75,6 @@ I'm particularly interested in practical tools that combine quantitative modelli
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## GitHub Activity
-
-![Dillon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dillonsnyman1&show_icons=true&hide_title=true&hide_border=true)
 
 ---
 
