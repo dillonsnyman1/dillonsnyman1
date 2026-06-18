@@ -90,6 +90,12 @@ I'm particularly interested in practical tools that combine quantitative modelli
 
 Full-stack demo that classifies a loan portfolio into IFRS 9 Stage 1 / 2 / 3 and calculates Expected Credit Loss at loan and portfolio level, with configurable SICR thresholds and CSV upload.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
 ---
 
 [**IRB RWA / Capital Calculator**](https://github.com/dillonsnyman1/irb-rwa-calculator)
@@ -100,6 +106,12 @@ Full-stack demo that classifies a loan portfolio into IFRS 9 Stage 1 / 2 / 3 and
 
 Calculates Basel IRB risk-weighted assets, Pillar 1 capital requirements and regulatory expected loss across retail and corporate/SME exposure classes, with asset correlation, maturity adjustment and SME firm-size support.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
 ---
 
 [**MAPA PD Calibration**](https://github.com/dillonsnyman1/mapa-pd-calibration)
@@ -109,6 +121,15 @@ Calculates Basel IRB risk-weighted assets, Pillar 1 capital requirements and reg
 [Live Demo](https://dcg14fdv56g8g.cloudfront.net)
 
 Reference implementation and interactive demo of the Monotone Adjacent Pooling Algorithm for score-to-PD calibration, with side-by-side implementations in Python, C++, R, MATLAB and SAS.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E6EC8?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ---
 
@@ -121,6 +142,15 @@ Reference implementation and interactive demo of the Monotone Adjacent Pooling A
 [Live Demo](https://d10ls11pbsolux.cloudfront.net)
 
 Prices European, American and barrier options using Black-Scholes, Monte Carlo and binomial tree methods, with full Greeks, implied volatility smile, convergence analysis and P&L scenario heatmap.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ---
 
