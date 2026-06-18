@@ -78,8 +78,77 @@ I'm particularly interested in practical tools that combine quantitative modelli
 
 ---
 
-## What You'll Find Here
+## Featured Projects
 
-This GitHub profile is a working portfolio of projects, tools and reference material across credit risk, data analytics and software development.
+### Credit Risk
+
+[**IFRS 9 ECL Calculator**](https://github.com/dillonsnyman1/ifrs9-ecl-calculator)
+[![CI/CD](https://github.com/dillonsnyman1/ifrs9-ecl-calculator/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/ifrs9-ecl-calculator/actions/workflows/ci-cd.yml)
+
+Full-stack demo that classifies a loan portfolio into IFRS 9 Stage 1 / 2 / 3 and calculates Expected Credit Loss at loan and portfolio level, with configurable SICR thresholds and CSV upload.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+[**IRB RWA / Capital Calculator**](https://github.com/dillonsnyman1/irb-rwa-calculator)
+[![CI/CD](https://github.com/dillonsnyman1/irb-rwa-calculator/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/irb-rwa-calculator/actions/workflows/ci-cd.yml)
+
+Calculates Basel IRB risk-weighted assets, Pillar 1 capital requirements and regulatory expected loss across retail and corporate/SME exposure classes, with asset correlation, maturity adjustment and SME firm-size support.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+[**MAPA PD Calibration**](https://github.com/dillonsnyman1/mapa-pd-calibration)
+[![CI/CD](https://github.com/dillonsnyman1/mapa-pd-calibration/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/mapa-pd-calibration/actions/workflows/ci-cd.yml)
+
+Reference implementation and interactive demo of the Monotone Adjacent Pooling Algorithm for score-to-PD calibration, with side-by-side implementations in Python, C++, R, MATLAB and SAS.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+---
+
+### Market Risk
+
+[**VaR & Market Risk Dashboard**](https://github.com/dillonsnyman1/var-market-risk-dashboard)
+[![CI/CD](https://github.com/dillonsnyman1/var-market-risk-dashboard/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/var-market-risk-dashboard/actions/workflows/ci-cd.yml)
+
+Calculates single-asset Value at Risk and Expected Shortfall using historical simulation, parametric and Monte Carlo methods side-by-side, with backtesting and path simulation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+### Derivatives
+
+[**Options Pricer & Greeks Dashboard**](https://github.com/dillonsnyman1/options-pricer-dashboard)
+[![CI/CD](https://github.com/dillonsnyman1/options-pricer-dashboard/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/options-pricer-dashboard/actions/workflows/ci-cd.yml)
+&ensp;[Live Demo](https://d10ls11pbsolux.cloudfront.net)
+
+Prices European, American and barrier options using Black-Scholes, Monte Carlo and binomial tree methods, with full Greeks, implied volatility smile, convergence analysis and P&L scenario heatmap.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
+## Disclaimer
 
 All projects are personal and use synthetic data, simulated examples or publicly available sources. Nothing here reflects the work, data or intellectual property of any employer or client.
