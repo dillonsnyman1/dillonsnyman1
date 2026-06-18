@@ -83,7 +83,9 @@ I'm particularly interested in practical tools that combine quantitative modelli
 ### Credit Risk
 
 [**IFRS 9 ECL Calculator**](https://github.com/dillonsnyman1/ifrs9-ecl-calculator)
+
 [![CI/CD](https://github.com/dillonsnyman1/ifrs9-ecl-calculator/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/ifrs9-ecl-calculator/actions/workflows/ci-cd.yml)
+
 [Live Demo](https://drmymq1mrcj43.cloudfront.net)
 
 Full-stack demo that classifies a loan portfolio into IFRS 9 Stage 1 / 2 / 3 and calculates Expected Credit Loss at loan and portfolio level, with configurable SICR thresholds and CSV upload.
@@ -97,7 +99,9 @@ Full-stack demo that classifies a loan portfolio into IFRS 9 Stage 1 / 2 / 3 and
 ---
 
 [**IRB RWA / Capital Calculator**](https://github.com/dillonsnyman1/irb-rwa-calculator)
+
 [![CI/CD](https://github.com/dillonsnyman1/irb-rwa-calculator/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/irb-rwa-calculator/actions/workflows/ci-cd.yml)
+
 [Live Demo](https://d1t6e5tofoi6d0.cloudfront.net)
 
 Calculates Basel IRB risk-weighted assets, Pillar 1 capital requirements and regulatory expected loss across retail and corporate/SME exposure classes, with asset correlation, maturity adjustment and SME firm-size support.
@@ -111,7 +115,9 @@ Calculates Basel IRB risk-weighted assets, Pillar 1 capital requirements and reg
 ---
 
 [**MAPA PD Calibration**](https://github.com/dillonsnyman1/mapa-pd-calibration)
+
 [![CI/CD](https://github.com/dillonsnyman1/mapa-pd-calibration/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/mapa-pd-calibration/actions/workflows/ci-cd.yml)
+
 [Live Demo](https://dcg14fdv56g8g.cloudfront.net)
 
 Reference implementation and interactive demo of the Monotone Adjacent Pooling Algorithm for score-to-PD calibration, with side-by-side implementations in Python, C++, R, MATLAB and SAS.
@@ -130,7 +136,9 @@ Reference implementation and interactive demo of the Monotone Adjacent Pooling A
 ### Derivatives
 
 [**Options Pricer & Greeks Dashboard**](https://github.com/dillonsnyman1/options-pricer-dashboard)
+
 [![CI/CD](https://github.com/dillonsnyman1/options-pricer-dashboard/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/options-pricer-dashboard/actions/workflows/ci-cd.yml)
+
 [Live Demo](https://d10ls11pbsolux.cloudfront.net)
 
 Prices European, American and barrier options using Black-Scholes, Monte Carlo and binomial tree methods, with full Greeks, implied volatility smile, convergence analysis and P&L scenario heatmap.
