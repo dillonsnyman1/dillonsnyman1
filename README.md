@@ -135,6 +135,28 @@ Reference implementation and interactive demo of the Monotone Adjacent Pooling A
 
 ---
 
+### Market Risk
+
+[**VaR & Market Risk Dashboard**](https://github.com/dillonsnyman1/var-market-risk-dashboard)
+
+[![CI/CD](https://github.com/dillonsnyman1/var-market-risk-dashboard/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/var-market-risk-dashboard/actions/workflows/ci-cd.yml)
+
+[Live Demo](https://d2uqhhzh5eunz2.cloudfront.net)
+
+Calculates single-asset Value at Risk and Expected Shortfall using Historical Simulation, Variance-Covariance and Monte Carlo methods side-by-side, with backtesting (Kupiec POF test) and reference implementations in five languages.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E6EC8?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
 ### Derivatives
 
 [**Options Pricer & Greeks Dashboard**](https://github.com/dillonsnyman1/options-pricer-dashboard)
