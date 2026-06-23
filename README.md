@@ -135,6 +135,22 @@ Reference implementation and interactive demo of the Monotone Adjacent Pooling A
 
 ---
 
+[**Scorecard Builder**](https://github.com/dillonsnyman1/scorecard-builder)
+
+[![CI/CD](https://github.com/dillonsnyman1/scorecard-builder/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/scorecard-builder/actions/workflows/ci-cd.yml)
+
+[Live Demo](https://d1kpl55ytl00tk.cloudfront.net)
+
+Interactive tool for building credit risk scorecards from raw data - covers the full development pipeline from factor screening and WoE/IV analysis through logistic regression, PDO scaling, stability assessment and Excel report export.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
 ### Market Risk
 
 [**VaR & Market Risk Dashboard**](https://github.com/dillonsnyman1/var-market-risk-dashboard)
