@@ -84,29 +84,13 @@ I'm particularly interested in practical tools that combine quantitative modelli
 
 ### Credit Risk
 
-[**IFRS 9 ECL Calculator**](https://github.com/dillonsnyman1/ifrs9-ecl-calculator)
+[**Scorecard Builder**](https://github.com/dillonsnyman1/scorecard-builder)
 
-[![CI/CD](https://github.com/dillonsnyman1/ifrs9-ecl-calculator/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/ifrs9-ecl-calculator/actions/workflows/ci-cd.yml)
+[![CI/CD](https://github.com/dillonsnyman1/scorecard-builder/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/scorecard-builder/actions/workflows/ci-cd.yml)
 
-[Live Demo](https://drmymq1mrcj43.cloudfront.net)
+[Live Demo](https://d1kpl55ytl00tk.cloudfront.net)
 
-Full-stack demo that classifies a loan portfolio into IFRS 9 Stage 1 / 2 / 3 and calculates Expected Credit Loss at loan and portfolio level, with configurable SICR thresholds and CSV upload.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-
----
-
-[**IRB RWA / Capital Calculator**](https://github.com/dillonsnyman1/irb-rwa-calculator)
-
-[![CI/CD](https://github.com/dillonsnyman1/irb-rwa-calculator/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/irb-rwa-calculator/actions/workflows/ci-cd.yml)
-
-[Live Demo](https://d1t6e5tofoi6d0.cloudfront.net)
-
-Calculates Basel IRB risk-weighted assets, Pillar 1 capital requirements and regulatory expected loss across retail and corporate/SME exposure classes, with asset correlation, maturity adjustment and SME firm-size support.
+Interactive tool for building credit risk scorecards from raw data - covers the full development pipeline from factor screening and WoE/IV analysis through logistic regression, PDO scaling, stability assessment and Excel report export.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -135,13 +119,45 @@ Reference implementation and interactive demo of the Monotone Adjacent Pooling A
 
 ---
 
-[**Scorecard Builder**](https://github.com/dillonsnyman1/scorecard-builder)
+[**LGD Estimator**](https://github.com/dillonsnyman1/lgd-estimator)
 
-[![CI/CD](https://github.com/dillonsnyman1/scorecard-builder/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/scorecard-builder/actions/workflows/ci-cd.yml)
+[![CI/CD](https://github.com/dillonsnyman1/lgd-estimator/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/lgd-estimator/actions/workflows/ci-cd.yml)
 
-[Live Demo](https://d1kpl55ytl00tk.cloudfront.net)
+[Live Demo](https://d2uq20piibja1m.cloudfront.net)
 
-Interactive tool for building credit risk scorecards from raw data - covers the full development pipeline from factor screening and WoE/IV analysis through logistic regression, PDO scaling, stability assessment and Excel report export.
+Six-step wizard that walks through an LGD model-development pipeline - upload a raw monthly loan-panel, construct default episodes and recovery cash flows, calculate Loss Given Default under workout, market and implied-market methodologies, review vintage and stability diagnostics, calibrate a downturn multiplier, and export the final scored loan book with a full audit trail.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
+[**IFRS 9 ECL Calculator**](https://github.com/dillonsnyman1/ifrs9-ecl-calculator)
+
+[![CI/CD](https://github.com/dillonsnyman1/ifrs9-ecl-calculator/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/ifrs9-ecl-calculator/actions/workflows/ci-cd.yml)
+
+[Live Demo](https://drmymq1mrcj43.cloudfront.net)
+
+Full-stack demo that classifies a loan portfolio into IFRS 9 Stage 1 / 2 / 3 and calculates Expected Credit Loss at loan and portfolio level, with configurable SICR thresholds and CSV upload.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
+[**IRB RWA / Capital Calculator**](https://github.com/dillonsnyman1/irb-rwa-calculator)
+
+[![CI/CD](https://github.com/dillonsnyman1/irb-rwa-calculator/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/irb-rwa-calculator/actions/workflows/ci-cd.yml)
+
+[Live Demo](https://d1t6e5tofoi6d0.cloudfront.net)
+
+Calculates Basel IRB risk-weighted assets, Pillar 1 capital requirements and regulatory expected loss across retail and corporate/SME exposure classes, with asset correlation, maturity adjustment and SME firm-size support.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
