@@ -210,6 +210,22 @@ Prices European, American and barrier options using Black-Scholes, Monte Carlo a
 
 ---
 
+[**FX Volatility Surface Builder**](https://github.com/dillonsnyman1/fx-vol-surface-builder)
+
+[![CI/CD](https://github.com/dillonsnyman1/fx-vol-surface-builder/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/fx-vol-surface-builder/actions/workflows/ci-cd.yml)
+
+[Live Demo](https://d357te53en715v.cloudfront.net)
+
+Builds and visualises FX implied volatility surfaces from delta-space market quotes, prices FX options using Garman-Kohlhagen with six Greeks, and analyses risk reversals and butterfly spreads across tenors and interpolation methods.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
 ## Disclaimer
 
 All projects are personal and use synthetic data, simulated examples or publicly available sources. Nothing here reflects the work, data or intellectual property of any employer or client.
