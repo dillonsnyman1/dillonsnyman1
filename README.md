@@ -189,6 +189,22 @@ Calculates single-asset Value at Risk and Expected Shortfall using Historical Si
 
 ---
 
+[**FX Exposure & Hedging Dashboard**](https://github.com/dillonsnyman1/fx-exposure-hedging-dashboard)
+
+[![CI/CD](https://github.com/dillonsnyman1/fx-exposure-hedging-dashboard/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/fx-exposure-hedging-dashboard/actions/workflows/ci-cd.yml)
+
+[Live Demo](https://d1165825icva9n.cloudfront.net)
+
+Full-stack demo that calculates FX portfolio exposure, models forward hedging via covered interest rate parity, computes currency-level VaR using historical simulation and variance-covariance methods, and measures hedge effectiveness using dollar-offset and regression analysis.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
 ### Derivatives
 
 [**Options Pricer & Greeks Dashboard**](https://github.com/dillonsnyman1/options-pricer-dashboard)
