@@ -167,6 +167,24 @@ Calculates Basel IRB risk-weighted assets, Pillar 1 capital requirements and reg
 
 ---
 
+### Counterparty Credit Risk
+
+[**CVA & Counterparty Risk Engine**](https://github.com/dillonsnyman1/cva-counterparty-risk)
+
+[![CI/CD](https://github.com/dillonsnyman1/cva-counterparty-risk/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/dillonsnyman1/cva-counterparty-risk/actions/workflows/ci-cd.yml)
+
+[Live Demo](https://d1m60pgtu4frd9.cloudfront.net)
+
+Monte Carlo CVA engine over a netting set of IR swaps and FX forwards. Simulates correlated Hull-White rates and GBM FX paths, prices trades analytically at each time step, and computes EE, PFE-95, EPE and per-trade CVA attribution via incremental CVA.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
 ### Market Risk
 
 [**VaR & Market Risk Dashboard**](https://github.com/dillonsnyman1/var-market-risk-dashboard)
